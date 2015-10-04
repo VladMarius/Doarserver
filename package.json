@@ -1,0 +1,12 @@
+{
+    "name": "BrowserQuest"
+  , "version": "0.0.1"
+  , "private": false 
+  , "dependencies": {
+    "underscore": "1.8.3"
+    , "log": ">0"
+    , "bison": ">0"
+    , "websocket": ">0"
+    , "websocket-server": "http://wordclick.heliohost.org/node-websocket-server-1.4.04.tar.gz"
+    , "sanitizer": "0.1.2"  }
+}
